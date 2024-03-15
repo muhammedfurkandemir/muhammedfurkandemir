@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Furkan Demir
 #### Unity Developer
-![helloworld](https://github.com/muhammedfurkandemir/muhammedfurkandemir/assets/79418329/c839c022-4322-4d17-a1f0-9273b8fb4bfa)
 
 I'm Furkan from Turkey and I developing Mobile and Desktop Aplication  with Unity. I really enjoy C# language, as well as interested data structures and algorithms.
 
