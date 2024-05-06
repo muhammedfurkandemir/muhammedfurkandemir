@@ -3,7 +3,7 @@
 
 I'm Furkan from Turkey and I developing Mobile and Desktop Aplication  with Unity. I really enjoy C# language, as well as interested data structures and algorithms.
 
-:computer:  C# / .Net / Unity 3D
+:computer:  C# / .Net / Unity
 
 - 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning C# 
