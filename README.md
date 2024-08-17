@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Furkan Demir
 #### Software Engineer
 
-I'm Furkan from Turkey and I developing Mobile and Desktop Aplication  with Unity. I really enjoy C# language, as well as interested data structures and algorithms.
+I'm Furkan from Turkey and I am a motivated software engineer with a passion for creating efficient solutions. Fluent in English and C# programming languages, including Unity3D , .NET systems. I am currently working on .Net and frontend technologies (Html , Css , JavaScript )
 
 :computer:  C# / .Net / Unity
 
-- 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning C# 
+- 🔭 I’m currently working on Backend Development and Frontend Development.
+- 🌱 I’m currently learning C# , JavaScript.
 - 📫 How to reach me: furkanxxdemir@gmail.com 
 
 ### Social Media
