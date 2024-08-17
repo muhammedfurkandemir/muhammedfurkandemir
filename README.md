@@ -3,7 +3,7 @@
 
 I'm Furkan from Turkey and I am a motivated software engineer with a passion for creating efficient solutions. Fluent in English and C# programming languages, including Unity3D , .NET systems. I am currently working on .Net and frontend technologies (Html , Css , JavaScript )
 
-:computer:  C# / .Net / Unity
+:computer:  C# / .Net / JavaScript / Unity
 
 - 🔭 I’m currently working on Backend Development and Frontend Development.
 - 🌱 I’m currently learning C# , JavaScript.
