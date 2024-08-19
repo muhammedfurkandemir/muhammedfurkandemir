@@ -5,7 +5,7 @@ I'm Furkan from Turkey and I am a motivated software engineer with a passion for
 
 :computer:  C# / .Net / JavaScript / Unity
 
-- 🔭 I’m currently working on Backend Development and Frontend Development.
+- 🔭 I’m currently working on Backend and Frontend Development.
 - 🌱 I’m currently learning C# , JavaScript.
 - 📫 How to reach me: furkanxxdemir@gmail.com 
 
